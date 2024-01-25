@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MockUp.unity
+    guid: 5e31059a87e65ab4fbef77ca103119f3
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 6ac7f5e1b0c082540b006e96c7e3b376
+  - enabled: 1
+    path: Assets/Scenes/tutorial.unity
+    guid: 053b16ee5abc681468aac69f80b0fb0f
+  - enabled: 1
+    path: Assets/Scenes/pelea.unity
+    guid: 7781998614e30874fa18f46251b7b7af
+  - enabled: 1
+    path: Assets/Scenes/NivelAlfa.unity
+    guid: a49444f89403b1e49903d2a9058feb24
+  - enabled: 1
+    path: Assets/Scenes/preguntas.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/pelea2.unity
+    guid: c4ca261a7c61a37438f5ce581dd9c6ce
+  - enabled: 1
+    path: Assets/Scenes/pelea3.unity
+    guid: 9a4103f1d9fd834479db33a6d8c5ac0a
+  - enabled: 1
+    path: Assets/Scenes/pelea4.unity
+    guid: 537350cbf63263741adaa7758d09d23d
+  - enabled: 1
+    path: Assets/Scenes/preguntas2.unity
+    guid: fd1c261477098f84db31439acd7340f7
+  - enabled: 1
+    path: Assets/Scenes/preguntas3.unity
+    guid: e244da60393037b4d853005132a802c6
+  - enabled: 1
+    path: Assets/Scenes/victoria.unity
+    guid: 177f49b88df65f24d89bf576dcddae8e
+  - enabled: 1
+    path: Assets/Scenes/preguntas4.unity
+    guid: 7788113317bf22c4284b11eaa152e793
+  - enabled: 1
+    path: Assets/Scenes/menuNewGame.unity
+    guid: 11001aec1c25944459c9f1ed750c64ae
+  - enabled: 1
+    path: Assets/Scenes/preguntas5.unity
+    guid: 9941dfb1597c9134f84e82554f3f288a
+  - enabled: 1
+    path: Assets/Scenes/victoriaPelea.unity
+    guid: 15629bc2eae06404abe0ccfe7aa7747b
+  - enabled: 1
+    path: Assets/Scenes/derrota.unity
+    guid: f29c4e10c9baf2046b1fc0cbbb794987
+  - enabled: 1
+    path: Assets/Scenes/preguntas6.unity
+    guid: d5bb586707430844dbbec1092865a74f
+  m_configObjects: {}
